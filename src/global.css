@@ -1,0 +1,27 @@
+.text-small {
+  font-size: small;
+  color: #E1624F;
+}
+
+img {
+  border-radius:  1.5rem;
+  width: 100%;
+}
+
+
+.blue {
+  color: blue;
+}
+
+.blueviolet {
+  color: blueviolet;
+}
+
+.pink {
+  color: rgb(225, 137, 152)
+}
+
+
+.orange {
+  color: orange;
+}

@@ -1,0 +1,62 @@
+@import url(global.css);
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#page {
+  background-color: #D9D9D9;
+  width: 100%;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+
+#main-header {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+#main-header p{
+  text-align: center;
+  width: 100%;
+}
+
+main article {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.destinos {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+footer {
+  text-align: center;
+}
+
+
+footer p:last-child {
+  padding-top: 2rem;
+  font-size: large;
+  text-align: center;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
