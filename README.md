@@ -3,6 +3,8 @@ Projeto desenvolvido para a entrega do desafio da Rocketseat no curso Fullstack,
 
 # 🌏 Conheça Busan
 
+link do projeto: 
+https://artuurdev.github.io/local-turistico/index.html
 
 
 Projeto desenvolvido com HTML e CSS apresentando alguns pontos turísticos da cidade de Busan, na Coreia do Sul.
